@@ -19,8 +19,5 @@
         android:text="@string/hello_world"
         android:onClick="sendMessage"/>
     
-    <Button android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/change_fragment"
-        android:onClick="changeFragment"/>
+    
 </LinearLayout>
